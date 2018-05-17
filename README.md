@@ -4,6 +4,7 @@ Collection of Data science/Machine Learning/Deep Learning Jupyter notebooks
 | Notebook      | Language      | Description   |
 | ------------- |:-------------:|:-------------:|
 | [Console Games Sales Decline](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/Python/console-games-sales-decline.ipynb) | Python | Investigate the state of the game industry to help the client make the decision of whether to get into this business. |
+| [Philadelphia Crime Rates](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/R/philadelphia-crime-rates.ipynb) | R | Find any helpful trends in Crime rates to assist the Philadelphia police department in planning their work for 2017. |
 
 ## Running Jupyter
 
