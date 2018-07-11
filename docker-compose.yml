@@ -4,8 +4,10 @@ services:
   datascience-notebook:
       build: .
       volumes:
-        - ./notebooks:/home/jovyan/work/notebooks
+        - ./assets:/home/jovyan/work/assets
         - ./data:/home/jovyan/work/data
+        - ./notebooks:/home/jovyan/work/notebooks
+        - ./output:/home/jovyan/work/output
       ports:
         - 8888:8888
       container_name: datascience-notebook

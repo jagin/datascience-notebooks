@@ -5,8 +5,8 @@ Collection of Data science/Machine Learning/Deep Learning Jupyter notebooks
 | ------------- |:-------------:|:-------------:|
 | [Console Games Sales Decline](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/Python/console-games-sales-decline.ipynb) | Python | Investigate the state of the game industry to help the client make the decision of whether to get into this business. |
 | [Philadelphia Crime Rates](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/R/philadelphia-crime-rates.ipynb) | R | Find any helpful trends in Crime rates to assist the Philadelphia police department in planning their work for 2017. |
-| [Finding Donors for CharityMl](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/Python/finding-donors-charityml.ipynb) | Python | Evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent. |
-
+| [Finding Donors for CharityMl](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/Python/finding-donors-charityml.ipynb) | Python | Evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent (Udacity Data Scientist Nanodegree project). |
+| [Image Classifier Project](http://nbviewer.jupyter.org/github/jagin/datascience-notebooks/blob/master/notebooks/Python/image-classifier-project.ipynb) | Python | Train an image classifier to recognize different species of flowers using PyTorch (Udacity Data Scientist Nanodegree project). |
 
 ## Running Jupyter
 
@@ -33,6 +33,6 @@ to be displayed on your console and follow the instruction.
 If you need to run some additional commands in the container run:
 
 ```
-bash -c clear && docker exec -it datascience-notebook sh
+bash -c clear && docker exec -it datascience-notebook bash
 
 ```
